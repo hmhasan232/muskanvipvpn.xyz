@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='64.20.54.243';
+USER='hmvipnet_muskanvipvpn';
+PASS='VpnPanel7519';
+DBNAME='hmvipnet_muskanvipvpn';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
